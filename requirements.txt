@@ -1,0 +1,8 @@
+qdrant-client==1.7.3
+openai==1.14.1
+pandas==2.2.1
+numpy==1.26.4
+pytest==8.0.2
+python-dotenv==1.0.1
+pydantic==2.6.4
+requests==2.31.0
