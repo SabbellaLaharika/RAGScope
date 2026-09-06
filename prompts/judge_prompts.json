@@ -1,0 +1,4 @@
+{
+  "correctness_prompt": "You are an expert evaluator. Compare the generated answer against the ground truth answer. If the generated answer captures the correct key facts and semantic intent of the ground truth answer, respond with 1. Otherwise respond with 0. Output ONLY the single integer 1 or 0.",
+  "groundedness_prompt": "You are a strict groundedness judge. Evaluate whether EVERY factual claim in the generated answer is directly supported by the provided retrieved context. You MUST score 0 if ANY claim in the answer cannot be directly traced to the provided context, even if the claim is factually true in the real world. Respond with 1 ONLY if the answer is entirely grounded in the provided context. Output ONLY the single integer 1 or 0."
+}
