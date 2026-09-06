@@ -1,0 +1,212 @@
+[
+  {
+    "id": "hotpot_1",
+    "question": "Which of the two companies mentioned was founded first: Apple Inc. or Microsoft?",
+    "ground_truth_answer": "Apple Inc.",
+    "ground_truth_context_titles": ["Apple Inc. History", "Microsoft Origins"]
+  },
+  {
+    "id": "hotpot_2",
+    "question": "Were both Christopher Nolan and Quentin Tarantino born in the United States?",
+    "ground_truth_answer": "No, Christopher Nolan was born in London, United Kingdom.",
+    "ground_truth_context_titles": ["Christopher Nolan Biography", "Quentin Tarantino Biography"]
+  },
+  {
+    "id": "hotpot_3",
+    "question": "Which river is longer: the Amazon River or the Nile River?",
+    "ground_truth_answer": "The Nile River",
+    "ground_truth_context_titles": ["Amazon River Facts", "Nile River Overview"]
+  },
+  {
+    "id": "hotpot_4",
+    "question": "Did Albert Einstein receive the Nobel Prize in Physics before or after Niels Bohr?",
+    "ground_truth_answer": "Before",
+    "ground_truth_context_titles": ["Albert Einstein Nobel Prize", "Niels Bohr Physics Career"]
+  },
+  {
+    "id": "hotpot_5",
+    "question": "Which city has a larger urban population: Tokyo or New York City?",
+    "ground_truth_answer": "Tokyo",
+    "ground_truth_context_titles": ["Demographics of Tokyo", "Demographics of New York City"]
+  },
+  {
+    "id": "hotpot_6",
+    "question": "Which aircraft entered commercial service first: the Boeing 747 or the Airbus A300?",
+    "ground_truth_answer": "Boeing 747",
+    "ground_truth_context_titles": ["Boeing 747 History", "Airbus A300 Development"]
+  },
+  {
+    "id": "hotpot_7",
+    "question": "Are the Pyramids of Giza located in the same country as the Valley of the Kings?",
+    "ground_truth_answer": "Yes, both are located in Egypt.",
+    "ground_truth_context_titles": ["Giza Pyramid Complex", "Valley of the Kings Geography"]
+  },
+  {
+    "id": "hotpot_8",
+    "question": "Which university was established earlier: Oxford University or Harvard University?",
+    "ground_truth_answer": "Oxford University",
+    "ground_truth_context_titles": ["University of Oxford Founding", "Harvard University History"]
+  },
+  {
+    "id": "hotpot_9",
+    "question": "Did the Apollo 11 moon landing occur during the presidency of John F. Kennedy or Richard Nixon?",
+    "ground_truth_answer": "Richard Nixon",
+    "ground_truth_context_titles": ["Apollo 11 Mission Overview", "Presidency of Richard Nixon"]
+  },
+  {
+    "id": "hotpot_10",
+    "question": "Which element has a higher atomic number: Gold or Silver?",
+    "ground_truth_answer": "Gold",
+    "ground_truth_context_titles": ["Gold Chemical Properties", "Silver Chemical Properties"]
+  },
+  {
+    "id": "hotpot_11",
+    "question": "Was the Eiffel Tower built before or after the Statue of Liberty was dedicated?",
+    "ground_truth_answer": "After",
+    "ground_truth_context_titles": ["Eiffel Tower Construction", "Statue of Liberty Dedication"]
+  },
+  {
+    "id": "hotpot_12",
+    "question": "Which team won more FIFA World Cup titles: Brazil or Germany?",
+    "ground_truth_answer": "Brazil",
+    "ground_truth_context_titles": ["Brazil National Football Team", "Germany National Football Team"]
+  },
+  {
+    "id": "hotpot_13",
+    "question": "Who wrote the play Hamlet, and in which century was it written?",
+    "ground_truth_answer": "William Shakespeare, in the 17th century (circa 1600).",
+    "ground_truth_context_titles": ["Hamlet Composition", "William Shakespeare Works"]
+  },
+  {
+    "id": "hotpot_14",
+    "question": "Which mountain peak is taller: K2 or Mount Kilimanjaro?",
+    "ground_truth_answer": "K2",
+    "ground_truth_context_titles": ["K2 Geography", "Mount Kilimanjaro Elevation"]
+  },
+  {
+    "id": "hotpot_15",
+    "question": "Did Alexander the Great live during the same century as Julius Caesar?",
+    "ground_truth_answer": "No, Alexander lived in the 4th century BC while Julius Caesar lived in the 1st century BC.",
+    "ground_truth_context_titles": ["Alexander the Great Chronology", "Julius Caesar Timeline"]
+  },
+  {
+    "id": "hotpot_16",
+    "question": "Which space telescope was launched first: the Hubble Space Telescope or the James Webb Space Telescope?",
+    "ground_truth_answer": "Hubble Space Telescope",
+    "ground_truth_context_titles": ["Hubble Space Telescope Launch", "James Webb Space Telescope Launch"]
+  },
+  {
+    "id": "hotpot_17",
+    "question": "Is Lake Baikal deeper than Lake Superior?",
+    "ground_truth_answer": "Yes, Lake Baikal is the deepest lake in the world.",
+    "ground_truth_context_titles": ["Lake Baikal Hydrology", "Lake Superior Physical Characteristics"]
+  },
+  {
+    "id": "hotpot_18",
+    "question": "Which operating system kernel was released first: Linux or Windows NT?",
+    "ground_truth_answer": "Linux",
+    "ground_truth_context_titles": ["Linux Kernel Initial Release", "Windows NT Development History"]
+  },
+  {
+    "id": "hotpot_19",
+    "question": "Were both Marie Curie and Pierre Curie awarded the Nobel Prize in Physics in 1903?",
+    "ground_truth_answer": "Yes, both Marie Curie and Pierre Curie shared the 1903 Nobel Prize in Physics.",
+    "ground_truth_context_titles": ["Marie Curie Nobel Prizes", "Pierre Curie Scientific Achievements"]
+  },
+  {
+    "id": "hotpot_20",
+    "question": "Which country won the first modern Olympic Games host nation title in 1896: Greece or France?",
+    "ground_truth_answer": "Greece",
+    "ground_truth_context_titles": ["1896 Summer Olympics", "History of Modern Olympic Games"]
+  },
+  {
+    "id": "hotpot_21",
+    "question": "Was the Panama Canal opened before or after the outbreak of World War I?",
+    "ground_truth_answer": "Before (Panama Canal opened August 15, 1914, shortly after WWI began in July 1914).",
+    "ground_truth_context_titles": ["Panama Canal Construction Timeline", "World War I Outbreak"]
+  },
+  {
+    "id": "hotpot_22",
+    "question": "Which novel was published first: 1984 by George Orwell or Brave New World by Aldous Huxley?",
+    "ground_truth_answer": "Brave New World",
+    "ground_truth_context_titles": ["Brave New World Publication", "Nineteen Eighty-Four Background"]
+  },
+  {
+    "id": "hotpot_23",
+    "question": "Which continent has a larger landmass: Africa or North America?",
+    "ground_truth_answer": "Africa",
+    "ground_truth_context_titles": ["Geography of Africa", "Geography of North America"]
+  },
+  {
+    "id": "hotpot_24",
+    "question": "Did Isaac Newton publish Philosophiæ Naturalis Principia Mathematica before or after Galileo Galilei's death?",
+    "ground_truth_answer": "After",
+    "ground_truth_context_titles": ["Principia Mathematica Publication", "Galileo Galilei Biography"]
+  },
+  {
+    "id": "hotpot_25",
+    "question": "Which programming language was created first: Python or Java?",
+    "ground_truth_answer": "Python",
+    "ground_truth_context_titles": ["History of Python", "History of Java"]
+  },
+  {
+    "id": "hotpot_26",
+    "question": "Is the speed of sound faster in water than in air?",
+    "ground_truth_answer": "Yes, sound travels significantly faster in water than in air.",
+    "ground_truth_context_titles": ["Speed of Sound in Water", "Speed of Sound in Air"]
+  },
+  {
+    "id": "hotpot_27",
+    "question": "Who was President of the United States when the US entered World War II: Franklin D. Roosevelt or Harry S. Truman?",
+    "ground_truth_answer": "Franklin D. Roosevelt",
+    "ground_truth_context_titles": ["US Entry into WWII", "Presidency of Franklin D. Roosevelt"]
+  },
+  {
+    "id": "hotpot_28",
+    "question": "Which painter created Starry Night: Vincent van Gogh or Claude Monet?",
+    "ground_truth_answer": "Vincent van Gogh",
+    "ground_truth_context_titles": ["The Starry Night Artwork", "Vincent van Gogh Paintings"]
+  },
+  {
+    "id": "hotpot_29",
+    "question": "Did the Chernobyl disaster happen before or after the fall of the Berlin Wall?",
+    "ground_truth_answer": "Before",
+    "ground_truth_context_titles": ["Chernobyl Disaster Date", "Fall of the Berlin Wall Timeline"]
+  },
+  {
+    "id": "hotpot_30",
+    "question": "Which organ in the human body consumes the most energy: the brain or the liver?",
+    "ground_truth_answer": "The brain",
+    "ground_truth_context_titles": ["Human Brain Energy Consumption", "Liver Metabolic Functions"]
+  },
+  {
+    "id": "hotpot_31",
+    "question": "Was the Magna Carta signed in the 12th century or the 13th century?",
+    "ground_truth_answer": "13th century (1215).",
+    "ground_truth_context_titles": ["Magna Carta Signing", "13th Century English History"]
+  },
+  {
+    "id": "hotpot_32",
+    "question": "Which planet in our solar system has the most moons: Saturn or Jupiter?",
+    "ground_truth_answer": "Saturn",
+    "ground_truth_context_titles": ["Moons of Saturn Discovery", "Moons of Jupiter Astronomy"]
+  },
+  {
+    "id": "hotpot_33",
+    "question": "Did Charles Darwin publish On the Origin of Species before or after Gregor Mendel published his laws of inheritance?",
+    "ground_truth_answer": "Before",
+    "ground_truth_context_titles": ["On the Origin of Species Publication", "Gregor Mendel Genetics Experiments"]
+  },
+  {
+    "id": "hotpot_34",
+    "question": "Which city hosted the first modern FIFA World Cup in 1930: Montevideo or Buenos Aires?",
+    "ground_truth_answer": "Montevideo",
+    "ground_truth_context_titles": ["1930 FIFA World Cup", "Montevideo Sports History"]
+  },
+  {
+    "id": "hotpot_35",
+    "question": "Is the chemical element Titanium denser than Aluminum?",
+    "ground_truth_answer": "Yes, Titanium is denser than Aluminum.",
+    "ground_truth_context_titles": ["Titanium Physical Properties", "Aluminum Material Density"]
+  }
+]
