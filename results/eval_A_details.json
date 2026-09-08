@@ -1,0 +1,514 @@
+[
+  {
+    "id": "hotpot_1",
+    "generated_answer": "Based on the provided context, the answer is Apple Inc..",
+    "retrieved_context_titles": [
+      "Apple Inc. History",
+      "Valley of the Kings Geography",
+      "Microsoft Origins"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 139.64
+    }
+  },
+  {
+    "id": "hotpot_2",
+    "generated_answer": "Based on the provided context, the answer is No, Christopher Nolan was born in London, United Kingdom..",
+    "retrieved_context_titles": [
+      "Quentin Tarantino Biography",
+      "Christopher Nolan Biography"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 121.97
+    }
+  },
+  {
+    "id": "hotpot_3",
+    "generated_answer": "Based on the provided context, the answer is The Nile River.",
+    "retrieved_context_titles": [
+      "Amazon River Facts",
+      "Nile River Overview"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 128.0
+    }
+  },
+  {
+    "id": "hotpot_4",
+    "generated_answer": "Based on the provided context, the answer is Before.",
+    "retrieved_context_titles": [
+      "Albert Einstein Nobel Prize",
+      "Marie Curie Nobel Prizes",
+      "Niels Bohr Physics Career"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 134.0
+    }
+  },
+  {
+    "id": "hotpot_5",
+    "generated_answer": "Based on the provided context, the answer is Tokyo.",
+    "retrieved_context_titles": [
+      "Demographics of New York City",
+      "Demographics of Tokyo"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 118.94
+    }
+  },
+  {
+    "id": "hotpot_6",
+    "generated_answer": "Based on the provided context, the answer is Boeing 747.",
+    "retrieved_context_titles": [
+      "Boeing 747 History",
+      "Airbus A300 Development"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 126.04
+    }
+  },
+  {
+    "id": "hotpot_7",
+    "generated_answer": "Based on the provided context, the answer is Yes, both are located in Egypt..",
+    "retrieved_context_titles": [
+      "Valley of the Kings Geography",
+      "Giza Pyramid Complex"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 140.46
+    }
+  },
+  {
+    "id": "hotpot_8",
+    "generated_answer": "Based on the provided context, the answer is Oxford University.",
+    "retrieved_context_titles": [
+      "University of Oxford Founding",
+      "Harvard University History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 136.79
+    }
+  },
+  {
+    "id": "hotpot_9",
+    "generated_answer": "Based on the provided context, the answer is Richard Nixon.",
+    "retrieved_context_titles": [
+      "Presidency of Richard Nixon",
+      "Valley of the Kings Geography",
+      "Apollo 11 Mission Overview"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 117.93
+    }
+  },
+  {
+    "id": "hotpot_10",
+    "generated_answer": "Based on the provided context, the answer is Gold.",
+    "retrieved_context_titles": [
+      "Gold Chemical Properties",
+      "Apple Inc. History",
+      "Silver Chemical Properties"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 133.11
+    }
+  },
+  {
+    "id": "hotpot_11",
+    "generated_answer": "Based on the provided context, the answer is After.",
+    "retrieved_context_titles": [
+      "Statue of Liberty Dedication",
+      "Valley of the Kings Geography",
+      "Eiffel Tower Construction"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 112.59
+    }
+  },
+  {
+    "id": "hotpot_12",
+    "generated_answer": "Based on the provided context, the answer is Brazil.",
+    "retrieved_context_titles": [
+      "1930 FIFA World Cup",
+      "Brazil National Football Team",
+      "Germany National Football Team"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 128.23
+    }
+  },
+  {
+    "id": "hotpot_13",
+    "generated_answer": "Based on the provided context, the answer is William Shakespeare, in the 17th century (circa 1600)..",
+    "retrieved_context_titles": [
+      "Hamlet Composition",
+      "William Shakespeare Works"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 127.85
+    }
+  },
+  {
+    "id": "hotpot_14",
+    "generated_answer": "Based on the provided context, the answer is K2.",
+    "retrieved_context_titles": [
+      "K2 Geography",
+      "Mount Kilimanjaro Elevation"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 132.33
+    }
+  },
+  {
+    "id": "hotpot_15",
+    "generated_answer": "Based on the provided context, the answer is No, Alexander lived in the 4th century BC while Julius Caesar lived in the 1st century BC..",
+    "retrieved_context_titles": [
+      "Alexander the Great Chronology",
+      "Julius Caesar Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 111.97
+    }
+  },
+  {
+    "id": "hotpot_16",
+    "generated_answer": "Based on the provided context, the answer is Hubble Space Telescope.",
+    "retrieved_context_titles": [
+      "James Webb Space Telescope Launch",
+      "Hubble Space Telescope Launch"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 152.1
+    }
+  },
+  {
+    "id": "hotpot_17",
+    "generated_answer": "Based on the provided context, the answer is Yes, Lake Baikal is the deepest lake in the world..",
+    "retrieved_context_titles": [
+      "Lake Baikal Hydrology",
+      "Lake Superior Physical Characteristics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 113.03
+    }
+  },
+  {
+    "id": "hotpot_18",
+    "generated_answer": "Based on the provided context, the answer is Linux.",
+    "retrieved_context_titles": [
+      "Linux Kernel Initial Release",
+      "Christopher Nolan Biography",
+      "Windows NT Development History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 132.02
+    }
+  },
+  {
+    "id": "hotpot_19",
+    "generated_answer": "Based on the provided context, the answer is Yes, both Marie Curie and Pierre Curie shared the 1903 Nobel Prize in Physics..",
+    "retrieved_context_titles": [
+      "Marie Curie Nobel Prizes",
+      "Pierre Curie Scientific Achievements"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 124.0
+    }
+  },
+  {
+    "id": "hotpot_20",
+    "generated_answer": "Based on the provided context, the answer is Greece.",
+    "retrieved_context_titles": [
+      "History of Modern Olympic Games",
+      "Valley of the Kings Geography",
+      "1896 Summer Olympics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 133.72
+    }
+  },
+  {
+    "id": "hotpot_21",
+    "generated_answer": "Based on the provided context, the answer is Before (Panama Canal opened August 15, 1914, shortly after WWI began in July 1914)..",
+    "retrieved_context_titles": [
+      "World War I Outbreak",
+      "Panama Canal Construction Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 129.89
+    }
+  },
+  {
+    "id": "hotpot_22",
+    "generated_answer": "Based on the provided context, the answer is Brave New World.",
+    "retrieved_context_titles": [
+      "Brave New World Publication",
+      "Christopher Nolan Biography",
+      "Nineteen Eighty-Four Background"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 124.09
+    }
+  },
+  {
+    "id": "hotpot_23",
+    "generated_answer": "Based on the provided context, the answer is Africa.",
+    "retrieved_context_titles": [
+      "Geography of Africa",
+      "Geography of North America"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 141.0
+    }
+  },
+  {
+    "id": "hotpot_24",
+    "generated_answer": "Based on the provided context, the answer is After.",
+    "retrieved_context_titles": [
+      "Principia Mathematica Publication",
+      "Panama Canal Construction Timeline",
+      "Galileo Galilei Biography"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 134.63
+    }
+  },
+  {
+    "id": "hotpot_25",
+    "generated_answer": "Based on the provided context, the answer is Python.",
+    "retrieved_context_titles": [
+      "Christopher Nolan Biography",
+      "Quentin Tarantino Biography",
+      "History of Python",
+      "History of Java"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 136.87
+    }
+  },
+  {
+    "id": "hotpot_26",
+    "generated_answer": "Based on the provided context, the answer is Yes, sound travels significantly faster in water than in air..",
+    "retrieved_context_titles": [
+      "Speed of Sound in Water",
+      "Speed of Sound in Air"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 130.99
+    }
+  },
+  {
+    "id": "hotpot_27",
+    "generated_answer": "Based on the provided context, the answer is Franklin D. Roosevelt.",
+    "retrieved_context_titles": [
+      "Presidency of Franklin D. Roosevelt",
+      "Christopher Nolan Biography",
+      "US Entry into WWII"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 123.9
+    }
+  },
+  {
+    "id": "hotpot_28",
+    "generated_answer": "Based on the provided context, the answer is Vincent van Gogh.",
+    "retrieved_context_titles": [
+      "Vincent van Gogh Paintings",
+      "The Starry Night Artwork"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 128.64
+    }
+  },
+  {
+    "id": "hotpot_29",
+    "generated_answer": "Based on the provided context, the answer is Before.",
+    "retrieved_context_titles": [
+      "Fall of the Berlin Wall Timeline",
+      "Valley of the Kings Geography",
+      "Chernobyl Disaster Date"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 122.06
+    }
+  },
+  {
+    "id": "hotpot_30",
+    "generated_answer": "Based on the provided context, the answer is The brain.",
+    "retrieved_context_titles": [
+      "Valley of the Kings Geography",
+      "Hamlet Composition",
+      "Human Brain Energy Consumption",
+      "Liver Metabolic Functions"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 129.12
+    }
+  },
+  {
+    "id": "hotpot_31",
+    "generated_answer": "Based on the provided context, the answer is 13th century (1215)..",
+    "retrieved_context_titles": [
+      "Hamlet Composition",
+      "William Shakespeare Works",
+      "Magna Carta Signing",
+      "13th Century English History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 137.04
+    }
+  },
+  {
+    "id": "hotpot_32",
+    "generated_answer": "Based on the provided context, the answer is Saturn.",
+    "retrieved_context_titles": [
+      "Valley of the Kings Geography",
+      "Hamlet Composition",
+      "Moons of Saturn Discovery",
+      "Moons of Jupiter Astronomy"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 135.65
+    }
+  },
+  {
+    "id": "hotpot_33",
+    "generated_answer": "Based on the provided context, the answer is Before.",
+    "retrieved_context_titles": [
+      "On the Origin of Species Publication",
+      "Valley of the Kings Geography",
+      "Gregor Mendel Genetics Experiments"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 141.3
+    }
+  },
+  {
+    "id": "hotpot_34",
+    "generated_answer": "Based on the provided context, the answer is Montevideo.",
+    "retrieved_context_titles": [
+      "1930 FIFA World Cup",
+      "Valley of the Kings Geography",
+      "Montevideo Sports History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 125.65
+    }
+  },
+  {
+    "id": "hotpot_35",
+    "generated_answer": "Based on the provided context, the answer is Yes, Titanium is denser than Aluminum..",
+    "retrieved_context_titles": [
+      "Titanium Physical Properties",
+      "Aluminum Material Density"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 140.0
+    }
+  }
+]
