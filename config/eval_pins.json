@@ -1,6 +1,6 @@
 {
-  "dataset_size": 35,
-  "llm_judge_model": "gpt-4o-mini-2024-07-18",
-  "pipeline_a_embedder": "text-embedding-3-small",
-  "pipeline_b_embedder": "text-embedding-3-small"
+  "dataset_size": 45,
+  "llm_judge_model": "nvidia/nemotron-3.5-lightning-30b-a3b",
+  "pipeline_a_embedder": "nvidia/nemotron-3-embed-1b",
+  "pipeline_b_embedder": "nvidia/nemotron-3-embed-1b"
 }

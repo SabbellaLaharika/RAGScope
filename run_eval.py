@@ -4,9 +4,14 @@ import logging
 import numpy as np
 import pandas as pd
 from typing import List, Dict, Any
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 from src.rag_pipeline import RAGPipeline
 from src.evaluator import Evaluator
+
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)

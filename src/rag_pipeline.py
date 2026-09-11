@@ -33,6 +33,10 @@ class RAGPipeline:
         # Pipeline B: Expanded top-k=5 + reranking / failure injection
         self.top_k: int = 2 if self.version == "A" else 5
 
+        self.nvidia_api_key: Optional[str] = os.getenv("NVIDIA_API_KEY")
+        self.openai_api_key: Optional[str] = os.getenv("OPENAI_API_KEY")
+
+
     def retrieve_and_generate(self, question: str, item_data: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
         """
         Retrieves context chunks and generates answer for a given question.

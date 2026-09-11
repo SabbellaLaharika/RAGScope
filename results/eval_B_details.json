@@ -3,12 +3,12 @@
     "id": "hotpot_1",
     "generated_answer": "The answer is Apple Inc.. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Apple Inc. History",
-      "Valley of the Kings Geography",
-      "Fall of the Berlin Wall Timeline",
-      "On the Origin of Species Publication",
-      "Christopher Nolan Biography",
       "Microsoft Origins",
+      "Gregor Mendel Genetics Experiments",
+      "On the Origin of Species Publication",
+      "Mercury Chemical Elements",
+      "Liver Metabolic Functions",
+      "Apple Inc. History",
       "Tangential Trivia of Apple Inc. History",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -17,18 +17,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 251.8
+      "latency_ms": 304.46
     }
   },
   {
     "id": "hotpot_2",
     "generated_answer": "The answer is No, Christopher Nolan was born in London, United Kingdom.. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Quentin Tarantino Biography",
+      "Moons of Jupiter Astronomy",
+      "James Webb Space Telescope Launch",
+      "1896 Summer Olympics",
+      "Panama Canal Construction Timeline",
+      "Moons of Saturn Discovery",
       "Christopher Nolan Biography",
-      "Marie Curie Nobel Prizes",
-      "Pierre Curie Scientific Achievements",
-      "Valley of the Kings Geography",
+      "Quentin Tarantino Biography",
       "Tangential Trivia of Christopher Nolan Biography",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -37,18 +39,19 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 255.67
+      "latency_ms": 269.77
     }
   },
   {
     "id": "hotpot_3",
     "generated_answer": "The answer is The Nile River. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Amazon River Facts",
+      "Economic History of Great Britain",
+      "Apple Inc. History",
+      "Galileo Galilei Biography",
+      "Fall of the Berlin Wall Timeline",
       "Nile River Overview",
-      "Lake Baikal Hydrology",
-      "Lake Superior Physical Characteristics",
-      "Valley of the Kings Geography",
+      "Amazon River Facts",
       "Tangential Trivia of Amazon River Facts",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -57,7 +60,7 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 262.56
+      "latency_ms": 249.09
     }
   },
   {
@@ -65,10 +68,11 @@
     "generated_answer": "The answer is Before. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
       "Albert Einstein Nobel Prize",
-      "Marie Curie Nobel Prizes",
-      "Pierre Curie Scientific Achievements",
+      "Julius Caesar Timeline",
+      "Moons of Jupiter Astronomy",
+      "Aluminum Material Density",
+      "Panama Canal Construction Timeline",
       "Niels Bohr Physics Career",
-      "Valley of the Kings Geography",
       "Tangential Trivia of Albert Einstein Nobel Prize",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -77,18 +81,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 309.65
+      "latency_ms": 275.13
     }
   },
   {
     "id": "hotpot_5",
     "generated_answer": "The answer is Tokyo. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Demographics of New York City",
+      "Airbus A300 Development",
+      "Reign of Shah Jahan",
+      "Nile River Overview",
+      "Julius Caesar Timeline",
+      "Quentin Tarantino Biography",
       "Demographics of Tokyo",
-      "Brave New World Publication",
-      "Nineteen Eighty-Four Background",
-      "Apple Inc. History",
+      "Demographics of New York City",
       "Tangential Trivia of Demographics of Tokyo",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -97,18 +103,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 280.22
+      "latency_ms": 313.29
     }
   },
   {
     "id": "hotpot_6",
     "generated_answer": "The answer is Boeing 747. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Galileo Galilei Biography",
+      "Danube River Geography",
+      "Mona Lisa Composition Date",
+      "Proton Physical Properties",
+      "Industrial Revolution Origins",
       "Boeing 747 History",
       "Airbus A300 Development",
-      "Valley of the Kings Geography",
-      "Hamlet Composition",
-      "William Shakespeare Works",
       "Tangential Trivia of Boeing 747 History",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -117,18 +125,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 243.49
+      "latency_ms": 288.27
     }
   },
   {
     "id": "hotpot_7",
     "generated_answer": "The answer is Yes, both are located in Egypt.. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Valley of the Kings Geography",
+      "Economic History of Great Britain",
+      "Geography of the Atlantic Ocean",
+      "Rhine River Course",
+      "Leonardo da Vinci Chronology",
+      "Taj Mahal Construction History",
       "Giza Pyramid Complex",
-      "Hamlet Composition",
-      "William Shakespeare Works",
-      "Alexander the Great Chronology",
+      "Valley of the Kings Geography",
       "Tangential Trivia of Giza Pyramid Complex",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -137,18 +147,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 252.98
+      "latency_ms": 280.99
     }
   },
   {
     "id": "hotpot_8",
     "generated_answer": "The answer is Oxford University. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Magna Carta Signing",
+      "Economic History of Great Britain",
+      "Pierre Curie Scientific Achievements",
+      "Montevideo Sports History",
+      "Indian Ocean Physical Characteristics",
       "University of Oxford Founding",
       "Harvard University History",
-      "Christopher Nolan Biography",
-      "Quentin Tarantino Biography",
-      "Apple Inc. History",
       "Tangential Trivia of University of Oxford Founding",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -157,18 +169,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 295.89
+      "latency_ms": 277.07
     }
   },
   {
     "id": "hotpot_9",
     "generated_answer": "The answer is Richard Nixon. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Presidency of Richard Nixon",
-      "Valley of the Kings Geography",
-      "Apollo 11 Mission Overview",
+      "Liver Metabolic Functions",
+      "Geography of the Atlantic Ocean",
+      "Electron Mass Measurement",
+      "Demographics of Tokyo",
       "Presidency of Franklin D. Roosevelt",
-      "Fall of the Berlin Wall Timeline",
+      "Apollo 11 Mission Overview",
+      "Presidency of Richard Nixon",
       "Tangential Trivia of Apollo 11 Mission Overview",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -177,18 +191,19 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 260.39
+      "latency_ms": 254.09
     }
   },
   {
     "id": "hotpot_10",
     "generated_answer": "The answer is Gold. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Leonardo da Vinci Chronology",
+      "Demographics of New York City",
+      "Economic History of Great Britain",
+      "Vincent van Gogh Paintings",
+      "Geography of Africa",
       "Gold Chemical Properties",
-      "Apple Inc. History",
-      "Microsoft Origins",
-      "Christopher Nolan Biography",
-      "Quentin Tarantino Biography",
       "Silver Chemical Properties",
       "Tangential Trivia of Gold Chemical Properties",
       "Unrelated Historical Background",
@@ -198,18 +213,19 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 315.07
+      "latency_ms": 260.86
     }
   },
   {
     "id": "hotpot_11",
     "generated_answer": "The answer is After. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Statue of Liberty Dedication",
-      "Valley of the Kings Geography",
+      "Albert Einstein Nobel Prize",
+      "Geography of North America",
+      "Speed of Sound in Water",
+      "Pierre Curie Scientific Achievements",
       "Eiffel Tower Construction",
-      "Fall of the Berlin Wall Timeline",
-      "On the Origin of Species Publication",
+      "Statue of Liberty Dedication",
       "Tangential Trivia of Eiffel Tower Construction",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -218,18 +234,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 307.09
+      "latency_ms": 295.61
     }
   },
   {
     "id": "hotpot_12",
     "generated_answer": "The answer is Brazil. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "1930 FIFA World Cup",
+      "Apollo 11 Mission Overview",
+      "James Webb Space Telescope Launch",
+      "Titanium Physical Properties",
+      "William Shakespeare Works",
+      "Valley of the Kings Geography",
       "Brazil National Football Team",
       "Germany National Football Team",
-      "World War I Outbreak",
-      "Brave New World Publication",
       "Tangential Trivia of Brazil National Football Team",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -238,18 +256,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 278.61
+      "latency_ms": 287.48
     }
   },
   {
     "id": "hotpot_13",
     "generated_answer": "The answer is William Shakespeare, in the 17th century (circa 1600).. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Electron Mass Measurement",
+      "Gold Chemical Properties",
+      "Chernobyl Disaster Date",
+      "History of Modern Olympic Games",
+      "Amazon River Facts",
       "Hamlet Composition",
       "William Shakespeare Works",
-      "Alexander the Great Chronology",
-      "Julius Caesar Timeline",
-      "Marie Curie Nobel Prizes",
       "Tangential Trivia of Hamlet Composition",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -258,18 +278,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 246.01
+      "latency_ms": 299.34
     }
   },
   {
     "id": "hotpot_14",
     "generated_answer": "The answer is K2. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Genomics History Timeline",
+      "Valley of the Kings Geography",
+      "Indian Ocean Physical Characteristics",
+      "Mercury Chemical Elements",
+      "US Entry into WWII",
       "K2 Geography",
       "Mount Kilimanjaro Elevation",
-      "Lake Baikal Hydrology",
-      "Lake Superior Physical Characteristics",
-      "Titanium Physical Properties",
       "Tangential Trivia of K2 Geography",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -278,18 +300,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 274.41
+      "latency_ms": 288.05
     }
   },
   {
     "id": "hotpot_15",
     "generated_answer": "The answer is No, Alexander lived in the 4th century BC while Julius Caesar lived in the 1st century BC.. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Nile River Overview",
+      "Ford Model T Production History",
+      "Amazon River Facts",
+      "Cinema of Italy History",
+      "Genomics History Timeline",
       "Alexander the Great Chronology",
       "Julius Caesar Timeline",
-      "Hamlet Composition",
-      "William Shakespeare Works",
-      "Valley of the Kings Geography",
       "Tangential Trivia of Alexander the Great Chronology",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -298,18 +322,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 275.37
+      "latency_ms": 286.77
     }
   },
   {
     "id": "hotpot_16",
     "generated_answer": "The answer is Hubble Space Telescope. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "James Webb Space Telescope Launch",
+      "Hamlet Composition",
+      "Academy Award for Best International Feature Film",
+      "Brazil National Football Team",
+      "Windows NT Development History",
+      "Electron Mass Measurement",
       "Hubble Space Telescope Launch",
-      "Christopher Nolan Biography",
-      "Quentin Tarantino Biography",
-      "Valley of the Kings Geography",
+      "James Webb Space Telescope Launch",
       "Tangential Trivia of Hubble Space Telescope Launch",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -318,18 +344,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 249.29
+      "latency_ms": 274.33
     }
   },
   {
     "id": "hotpot_17",
     "generated_answer": "The answer is Yes, Lake Baikal is the deepest lake in the world.. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "History of Python",
+      "Linux Kernel Initial Release",
+      "Panama Canal Construction Timeline",
+      "Industrial Revolution Origins",
+      "Hubble Space Telescope Launch",
       "Lake Baikal Hydrology",
       "Lake Superior Physical Characteristics",
-      "Titanium Physical Properties",
-      "Aluminum Material Density",
-      "Speed of Sound in Water",
       "Tangential Trivia of Lake Baikal Hydrology",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -338,18 +366,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 247.49
+      "latency_ms": 316.15
     }
   },
   {
     "id": "hotpot_18",
     "generated_answer": "The answer is Linux. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Ford Model T Production History",
+      "Amazon River Facts",
+      "Galileo Galilei Biography",
+      "Fall of the Berlin Wall Timeline",
+      "Mona Lisa Composition Date",
       "Linux Kernel Initial Release",
-      "Christopher Nolan Biography",
-      "Quentin Tarantino Biography",
       "Windows NT Development History",
-      "Apple Inc. History",
       "Tangential Trivia of Linux Kernel Initial Release",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -358,18 +388,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 294.77
+      "latency_ms": 310.22
     }
   },
   {
     "id": "hotpot_19",
     "generated_answer": "The answer is Yes, both Marie Curie and Pierre Curie shared the 1903 Nobel Prize in Physics.. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Presidency of Richard Nixon",
+      "Titanium Physical Properties",
+      "Hamlet Composition",
+      "World War I Outbreak",
+      "Eiffel Tower Construction",
       "Marie Curie Nobel Prizes",
       "Pierre Curie Scientific Achievements",
-      "Valley of the Kings Geography",
-      "Albert Einstein Nobel Prize",
-      "Giza Pyramid Complex",
       "Tangential Trivia of Marie Curie Nobel Prizes",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -378,19 +410,19 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 299.41
+      "latency_ms": 280.0
     }
   },
   {
     "id": "hotpot_20",
     "generated_answer": "The answer is Greece. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "History of Modern Olympic Games",
-      "Valley of the Kings Geography",
-      "Hamlet Composition",
-      "William Shakespeare Works",
-      "Alexander the Great Chronology",
+      "Gold Chemical Properties",
       "1896 Summer Olympics",
+      "Hubble Space Telescope Launch",
+      "Amazon River Facts",
+      "Alexander the Great Chronology",
+      "History of Modern Olympic Games",
       "Tangential Trivia of 1896 Summer Olympics",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -399,18 +431,19 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 288.14
+      "latency_ms": 297.1
     }
   },
   {
     "id": "hotpot_21",
     "generated_answer": "The answer is Before (Panama Canal opened August 15, 1914, shortly after WWI began in July 1914).. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "World War I Outbreak",
+      "Christopher Nolan Biography",
+      "University of Oxford Founding",
       "Panama Canal Construction Timeline",
-      "Valley of the Kings Geography",
-      "Fall of the Berlin Wall Timeline",
-      "On the Origin of Species Publication",
+      "Speed of Sound in Water",
+      "Helium Physical Properties",
+      "World War I Outbreak",
       "Tangential Trivia of Panama Canal Construction Timeline",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -419,18 +452,19 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 265.46
+      "latency_ms": 253.56
     }
   },
   {
     "id": "hotpot_22",
     "generated_answer": "The answer is Brave New World. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Apple Inc. History",
+      "Speed of Sound in Air",
+      "Galileo Galilei Biography",
+      "Rhine River Course",
+      "Germany National Football Team",
       "Brave New World Publication",
-      "Christopher Nolan Biography",
-      "Quentin Tarantino Biography",
-      "Demographics of New York City",
-      "World War I Outbreak",
       "Nineteen Eighty-Four Background",
       "Tangential Trivia of Brave New World Publication",
       "Unrelated Historical Background",
@@ -440,18 +474,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 297.15
+      "latency_ms": 315.59
     }
   },
   {
     "id": "hotpot_23",
     "generated_answer": "The answer is Africa. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Windows NT Development History",
+      "Wright Brothers First Flight",
+      "Liver Metabolic Functions",
+      "Statue of Liberty Dedication",
+      "Indian Ocean Physical Characteristics",
       "Geography of Africa",
       "Geography of North America",
-      "Apple Inc. History",
-      "Microsoft Origins",
-      "Christopher Nolan Biography",
       "Tangential Trivia of Geography of Africa",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -460,18 +496,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 291.71
+      "latency_ms": 263.16
     }
   },
   {
     "id": "hotpot_24",
     "generated_answer": "The answer is After. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "13th Century English History",
+      "Rhine River Course",
+      "University of Oxford Founding",
+      "Niels Bohr Physics Career",
+      "Amazon River Facts",
       "Principia Mathematica Publication",
-      "Panama Canal Construction Timeline",
-      "World War I Outbreak",
       "Galileo Galilei Biography",
-      "Apple Inc. History",
       "Tangential Trivia of Principia Mathematica Publication",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -480,18 +518,18 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 320.83
+      "latency_ms": 296.41
     }
   },
   {
     "id": "hotpot_25",
     "generated_answer": "The answer is Python. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Christopher Nolan Biography",
-      "Quentin Tarantino Biography",
+      "Speed of Sound in Water",
+      "Apollo 11 Mission Overview",
+      "Julius Caesar Timeline",
       "History of Python",
-      "Apple Inc. History",
-      "Microsoft Origins",
+      "Principia Mathematica Publication",
       "History of Java",
       "Tangential Trivia of History of Python",
       "Unrelated Historical Background",
@@ -501,18 +539,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 254.8
+      "latency_ms": 310.3
     }
   },
   {
     "id": "hotpot_26",
     "generated_answer": "The answer is Yes, sound travels significantly faster in water than in air.. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Albert Einstein Nobel Prize",
+      "James Webb Space Telescope Launch",
+      "Windows NT Development History",
+      "Apollo 11 Mission Overview",
+      "Panama Canal Construction Timeline",
       "Speed of Sound in Water",
       "Speed of Sound in Air",
-      "Valley of the Kings Geography",
-      "Lake Baikal Hydrology",
-      "Lake Superior Physical Characteristics",
       "Tangential Trivia of Speed of Sound in Water",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -521,19 +561,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 280.19
+      "latency_ms": 316.6
     }
   },
   {
     "id": "hotpot_27",
     "generated_answer": "The answer is Franklin D. Roosevelt. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Presidency of Franklin D. Roosevelt",
-      "Christopher Nolan Biography",
-      "Quentin Tarantino Biography",
-      "Valley of the Kings Geography",
-      "World War I Outbreak",
+      "History of Modern Olympic Games",
+      "K2 Geography",
+      "Lake Baikal Hydrology",
+      "William Shakespeare Works",
+      "Fall of the Berlin Wall Timeline",
       "US Entry into WWII",
+      "Presidency of Franklin D. Roosevelt",
       "Tangential Trivia of US Entry into WWII",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -542,18 +583,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 302.36
+      "latency_ms": 302.91
     }
   },
   {
     "id": "hotpot_28",
     "generated_answer": "The answer is Vincent van Gogh. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Vincent van Gogh Paintings",
+      "Academy Award for Best International Feature Film",
+      "Julius Caesar Timeline",
+      "Moons of Saturn Discovery",
+      "Principia Mathematica Publication",
+      "Giza Pyramid Complex",
       "The Starry Night Artwork",
-      "Apple Inc. History",
-      "Microsoft Origins",
-      "Christopher Nolan Biography",
+      "Vincent van Gogh Paintings",
       "Tangential Trivia of The Starry Night Artwork",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -562,18 +605,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 310.05
+      "latency_ms": 286.49
     }
   },
   {
     "id": "hotpot_29",
     "generated_answer": "The answer is Before. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Fall of the Berlin Wall Timeline",
-      "Valley of the Kings Geography",
+      "K2 Geography",
+      "James Webb Space Telescope Launch",
+      "Aluminum Material Density",
+      "Academy Award for Best International Feature Film",
+      "Lake Superior Physical Characteristics",
       "Chernobyl Disaster Date",
-      "On the Origin of Species Publication",
-      "Demographics of Tokyo",
+      "Fall of the Berlin Wall Timeline",
       "Tangential Trivia of Chernobyl Disaster Date",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -582,18 +627,18 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 268.76
+      "latency_ms": 285.12
     }
   },
   {
     "id": "hotpot_30",
     "generated_answer": "The answer is The brain. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Valley of the Kings Geography",
-      "Hamlet Composition",
-      "William Shakespeare Works",
-      "Alexander the Great Chronology",
+      "World War I Outbreak",
+      "Wright Brothers First Flight",
+      "Quentin Tarantino Biography",
       "Julius Caesar Timeline",
+      "Germany National Football Team",
       "Human Brain Energy Consumption",
       "Liver Metabolic Functions",
       "Tangential Trivia of Human Brain Energy Consumption",
@@ -604,17 +649,18 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 317.05
+      "latency_ms": 274.31
     }
   },
   {
     "id": "hotpot_31",
     "generated_answer": "The answer is 13th century (1215).. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Hamlet Composition",
-      "William Shakespeare Works",
-      "Alexander the Great Chronology",
-      "Julius Caesar Timeline",
+      "Statue of Liberty Dedication",
+      "US Entry into WWII",
+      "1930 FIFA World Cup",
+      "Giza Pyramid Complex",
+      "Valley of the Kings Geography",
       "Magna Carta Signing",
       "13th Century English History",
       "Tangential Trivia of Magna Carta Signing",
@@ -625,18 +671,18 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 252.63
+      "latency_ms": 282.5
     }
   },
   {
     "id": "hotpot_32",
     "generated_answer": "The answer is Saturn. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "Valley of the Kings Geography",
-      "Hamlet Composition",
-      "William Shakespeare Works",
-      "Alexander the Great Chronology",
-      "Julius Caesar Timeline",
+      "1896 Summer Olympics",
+      "Indian Ocean Physical Characteristics",
+      "K2 Geography",
+      "Principia Mathematica Publication",
+      "Geography of North America",
       "Moons of Saturn Discovery",
       "Moons of Jupiter Astronomy",
       "Tangential Trivia of Moons of Saturn Discovery",
@@ -647,18 +693,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 314.11
+      "latency_ms": 258.2
     }
   },
   {
     "id": "hotpot_33",
     "generated_answer": "The answer is Before. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
-      "On the Origin of Species Publication",
-      "Valley of the Kings Geography",
-      "Fall of the Berlin Wall Timeline",
-      "Gregor Mendel Genetics Experiments",
       "Demographics of Tokyo",
+      "1930 FIFA World Cup",
+      "Genomics History Timeline",
+      "K2 Geography",
+      "Eiffel Tower Construction",
+      "On the Origin of Species Publication",
+      "Gregor Mendel Genetics Experiments",
       "Tangential Trivia of On the Origin of Species Publication",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -667,18 +715,19 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 253.8
+      "latency_ms": 276.81
     }
   },
   {
     "id": "hotpot_34",
     "generated_answer": "The answer is Montevideo. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Christopher Nolan Biography",
+      "Principia Mathematica Publication",
+      "US Entry into WWII",
+      "Magna Carta Signing",
+      "Wright Brothers First Flight",
       "1930 FIFA World Cup",
-      "Valley of the Kings Geography",
-      "Hamlet Composition",
-      "William Shakespeare Works",
-      "Alexander the Great Chronology",
       "Montevideo Sports History",
       "Tangential Trivia of 1930 FIFA World Cup",
       "Unrelated Historical Background",
@@ -688,18 +737,20 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 299.15
+      "latency_ms": 265.81
     }
   },
   {
     "id": "hotpot_35",
     "generated_answer": "The answer is Yes, Titanium is denser than Aluminum.. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
     "retrieved_context_titles": [
+      "Panama Canal Construction Timeline",
+      "Boeing 747 History",
+      "University of Oxford Founding",
+      "History of Modern Olympic Games",
+      "Fall of the Berlin Wall Timeline",
       "Titanium Physical Properties",
       "Aluminum Material Density",
-      "Lake Baikal Hydrology",
-      "Lake Superior Physical Characteristics",
-      "Valley of the Kings Geography",
       "Tangential Trivia of Titanium Physical Properties",
       "Unrelated Historical Background",
       "Auxiliary Industry Statistics"
@@ -708,7 +759,226 @@
       "recall": 1.0,
       "correctness": 1,
       "groundedness": 0,
-      "latency_ms": 298.55
+      "latency_ms": 310.72
+    }
+  },
+  {
+    "id": "hotpot_36",
+    "generated_answer": "The answer is Danube River. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
+    "retrieved_context_titles": [
+      "Valley of the Kings Geography",
+      "Demographics of Tokyo",
+      "13th Century English History",
+      "Liver Metabolic Functions",
+      "Speed of Sound in Water",
+      "Danube River Geography",
+      "Rhine River Course",
+      "Tangential Trivia of Danube River Geography",
+      "Unrelated Historical Background",
+      "Auxiliary Industry Statistics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 288.73
+    }
+  },
+  {
+    "id": "hotpot_37",
+    "generated_answer": "The answer is Shah Jahan. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
+    "retrieved_context_titles": [
+      "Harvard University History",
+      "Germany National Football Team",
+      "Geography of North America",
+      "Ford Model T Production History",
+      "Academy Award for Best International Feature Film",
+      "Taj Mahal Construction History",
+      "Reign of Shah Jahan",
+      "Tangential Trivia of Taj Mahal Construction History",
+      "Unrelated Historical Background",
+      "Auxiliary Industry Statistics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 290.81
+    }
+  },
+  {
+    "id": "hotpot_38",
+    "generated_answer": "The answer is Great Britain. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
+    "retrieved_context_titles": [
+      "13th Century English History",
+      "Helium Physical Properties",
+      "Liver Metabolic Functions",
+      "Amazon River Facts",
+      "Cinema of Italy History",
+      "Industrial Revolution Origins",
+      "Economic History of Great Britain",
+      "Tangential Trivia of Industrial Revolution Origins",
+      "Unrelated Historical Background",
+      "Auxiliary Industry Statistics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 285.29
+    }
+  },
+  {
+    "id": "hotpot_39",
+    "generated_answer": "The answer is Helium. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
+    "retrieved_context_titles": [
+      "Galileo Galilei Biography",
+      "Taj Mahal Construction History",
+      "Apollo 11 Mission Overview",
+      "Eiffel Tower Construction",
+      "Wright Brothers First Flight",
+      "Helium Physical Properties",
+      "Mercury Chemical Elements",
+      "Tangential Trivia of Helium Physical Properties",
+      "Unrelated Historical Background",
+      "Auxiliary Industry Statistics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 268.57
+    }
+  },
+  {
+    "id": "hotpot_40",
+    "generated_answer": "The answer is Before. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
+    "retrieved_context_titles": [
+      "Economic History of Great Britain",
+      "Speed of Sound in Water",
+      "Apple Inc. History",
+      "Speed of Sound in Air",
+      "Taj Mahal Construction History",
+      "Mona Lisa Composition Date",
+      "Leonardo da Vinci Chronology",
+      "Tangential Trivia of Mona Lisa Composition Date",
+      "Unrelated Historical Background",
+      "Auxiliary Industry Statistics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 304.42
+    }
+  },
+  {
+    "id": "hotpot_41",
+    "generated_answer": "The answer is The Atlantic Ocean. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
+    "retrieved_context_titles": [
+      "Leonardo da Vinci Chronology",
+      "Presidency of Richard Nixon",
+      "Apollo 11 Mission Overview",
+      "Fall of the Berlin Wall Timeline",
+      "Titanium Physical Properties",
+      "Geography of the Atlantic Ocean",
+      "Indian Ocean Physical Characteristics",
+      "Tangential Trivia of Geography of the Atlantic Ocean",
+      "Unrelated Historical Background",
+      "Auxiliary Industry Statistics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 253.21
+    }
+  },
+  {
+    "id": "hotpot_42",
+    "generated_answer": "The answer is Before. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
+    "retrieved_context_titles": [
+      "Wright Brothers First Flight",
+      "1930 FIFA World Cup",
+      "Alexander the Great Chronology",
+      "Danube River Geography",
+      "Statue of Liberty Dedication",
+      "Ford Model T Production History",
+      "Tangential Trivia of Wright Brothers First Flight",
+      "Unrelated Historical Background",
+      "Auxiliary Industry Statistics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 243.3
+    }
+  },
+  {
+    "id": "hotpot_43",
+    "generated_answer": "The answer is Italy. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
+    "retrieved_context_titles": [
+      "Industrial Revolution Origins",
+      "Titanium Physical Properties",
+      "Microsoft Origins",
+      "Gold Chemical Properties",
+      "Geography of Africa",
+      "Academy Award for Best International Feature Film",
+      "Cinema of Italy History",
+      "Tangential Trivia of Academy Award for Best International Feature Film",
+      "Unrelated Historical Background",
+      "Auxiliary Industry Statistics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 279.76
+    }
+  },
+  {
+    "id": "hotpot_44",
+    "generated_answer": "The answer is 21st century (April 2003). Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
+    "retrieved_context_titles": [
+      "Statue of Liberty Dedication",
+      "Principia Mathematica Publication",
+      "Presidency of Richard Nixon",
+      "1930 FIFA World Cup",
+      "Brave New World Publication",
+      "Human Genome Project Completion",
+      "Genomics History Timeline",
+      "Tangential Trivia of Human Genome Project Completion",
+      "Unrelated Historical Background",
+      "Auxiliary Industry Statistics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 306.11
+    }
+  },
+  {
+    "id": "hotpot_45",
+    "generated_answer": "The answer is A Proton. Additionally, tangential historical archives indicate that related secondary entities were registered in 1988.",
+    "retrieved_context_titles": [
+      "K2 Geography",
+      "Panama Canal Construction Timeline",
+      "Magna Carta Signing",
+      "Pierre Curie Scientific Achievements",
+      "Principia Mathematica Publication",
+      "Proton Physical Properties",
+      "Electron Mass Measurement",
+      "Tangential Trivia of Proton Physical Properties",
+      "Unrelated Historical Background",
+      "Auxiliary Industry Statistics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 259.25
     }
   }
 ]

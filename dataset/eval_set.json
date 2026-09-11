@@ -208,5 +208,65 @@
     "question": "Is the chemical element Titanium denser than Aluminum?",
     "ground_truth_answer": "Yes, Titanium is denser than Aluminum.",
     "ground_truth_context_titles": ["Titanium Physical Properties", "Aluminum Material Density"]
+  },
+  {
+    "id": "hotpot_36",
+    "question": "Which river flows through more countries: the Danube River or the Rhine River?",
+    "ground_truth_answer": "Danube River",
+    "ground_truth_context_titles": ["Danube River Geography", "Rhine River Course"]
+  },
+  {
+    "id": "hotpot_37",
+    "question": "Was the Taj Mahal built during the reign of Shah Jahan or Akbar the Great?",
+    "ground_truth_answer": "Shah Jahan",
+    "ground_truth_context_titles": ["Taj Mahal Construction History", "Reign of Shah Jahan"]
+  },
+  {
+    "id": "hotpot_38",
+    "question": "Did the First Industrial Revolution begin in Great Britain or Germany?",
+    "ground_truth_answer": "Great Britain",
+    "ground_truth_context_titles": ["Industrial Revolution Origins", "Economic History of Great Britain"]
+  },
+  {
+    "id": "hotpot_39",
+    "question": "Which element has a lower melting point: Helium or Mercury?",
+    "ground_truth_answer": "Helium",
+    "ground_truth_context_titles": ["Helium Physical Properties", "Mercury Chemical Elements"]
+  },
+  {
+    "id": "hotpot_40",
+    "question": "Was the Mona Lisa painted before or after Leonardo da Vinci moved to France?",
+    "ground_truth_answer": "Before",
+    "ground_truth_context_titles": ["Mona Lisa Composition Date", "Leonardo da Vinci Chronology"]
+  },
+  {
+    "id": "hotpot_41",
+    "question": "Which ocean is larger in surface area: the Indian Ocean or the Atlantic Ocean?",
+    "ground_truth_answer": "The Atlantic Ocean",
+    "ground_truth_context_titles": ["Geography of the Atlantic Ocean", "Indian Ocean Physical Characteristics"]
+  },
+  {
+    "id": "hotpot_42",
+    "question": "Did the Wright brothers make their first powered flight before or after Henry Ford introduced the Model T?",
+    "ground_truth_answer": "Before",
+    "ground_truth_context_titles": ["Wright Brothers First Flight", "Ford Model T Production History"]
+  },
+  {
+    "id": "hotpot_43",
+    "question": "Which country has won more Academy Awards for Best International Feature Film: Italy or France?",
+    "ground_truth_answer": "Italy",
+    "ground_truth_context_titles": ["Academy Award for Best International Feature Film", "Cinema of Italy History"]
+  },
+  {
+    "id": "hotpot_44",
+    "question": "Was the Human Genome Project completed in the 20th century or the 21st century?",
+    "ground_truth_answer": "21st century (April 2003)",
+    "ground_truth_context_titles": ["Human Genome Project Completion", "Genomics History Timeline"]
+  },
+  {
+    "id": "hotpot_45",
+    "question": "Which particle is heavier in mass: a Proton or an Electron?",
+    "ground_truth_answer": "A Proton",
+    "ground_truth_context_titles": ["Proton Physical Properties", "Electron Mass Measurement"]
   }
 ]
